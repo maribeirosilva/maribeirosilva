@@ -40,5 +40,5 @@
   </a>
   <!-- Snake animation -->
   <br>
-  ![Snake animation](https://github.com/rafaballerini1/maribeirosilva/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/maribeirosilva/maribeirosilva/blob/output/github-contribution-grid-snake.svg)
 </div>
