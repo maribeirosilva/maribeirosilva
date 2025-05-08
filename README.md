@@ -1,13 +1,13 @@
 ## Olá! Eu sou a Mariana Ribeiro . ݁₊ ⊹ . ݁˖ . ݁
 
-- 🔭 Trabalho atualmente com desenvolvimento front-end
-- 🌱 Estudando Javascript
+- ☕ Trabalho atualmente com desenvolvimento front-end
+- 📋 Estudando Javascript
 - 📫 Entre em contato comigo: mrs.ribeirosm@gmail.com
-- 😄 Pronouns: Ela/Dela
+- 👩🏻 Pronomes: Ela/Dela
 ##
 
   <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <a href="https://beacons.ai/maribeirosilva">
     <img 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=maribeirosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
@@ -24,7 +24,7 @@
   <img align="center" alt="Mari-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mari-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Mari-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  
 </div>
 
 ##
@@ -35,10 +35,5 @@
   <a href="mailto:mrs.ribeirosm@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://discord.gg/G9GPg5SA7S" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <!-- Snake animation -->
   <br>
-  ![Snake animation](https://github.com/maribeirosilva/maribeirosilva/blob/output/github-contribution-grid-snake.svg)
 </div>
